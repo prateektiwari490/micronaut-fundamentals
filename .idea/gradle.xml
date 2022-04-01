@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/02/demos/smart-oven" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/02/demos/smart-oven" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/03/demos/smart-oven" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/03/demos/smart-oven" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/04/demos/smart-oven" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/04/demos/smart-oven" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/05/demos/smart-oven" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/05/demos/smart-oven" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/06/demos/smart-oven" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/06/demos/smart-oven" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/07/demos/cloud-service" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/07/demos/cloud-service" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/07/demos/smart-oven" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/07/demos/smart-oven" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/08/demos/cloud-service" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/08/demos/cloud-service" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/08/demos/smart-oven" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/08/demos/smart-oven" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/09/demos/cloud-service" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/09/demos/cloud-service" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/09/demos/smart-oven" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/09/demos/smart-oven" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/10/demos/mn-text-processor" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/10/demos/mn-text-processor" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
